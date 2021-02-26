@@ -1,6 +1,5 @@
 import logo from './logo.svg';
 import './App.css';
-import './exercise'
 
 function App() {
   return (
